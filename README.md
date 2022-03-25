@@ -29,6 +29,9 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Laravel Sponsors
 
+# E-Liber est une application web permettant de gérer toutes les tâches administratives d'un organisme de formation ou école supérieur. La plateforme dispose d'une partie réservée aux secrétaires de l'école pour la gestion et une application mobile utilisable sur
+Android et IOS par les étudiants de l'école pour les notifications à temps réel.
+
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ### Premium Partners
